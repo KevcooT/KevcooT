@@ -2,7 +2,7 @@
 - 🧠 MSc in IT Engineering haver
 - 👔 Data scientist
 - 🖱️ Gaming enjoyer
-- 🖥️ I code stuff in my free time
+- 🖥️ I code stuff (mostly gaming related) in my free time
 - 📫 https://twitter.com/KevcooT_
 
 <!---
