@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @KevcooT
-- 🧠 MSc in IT Engineering haver 
+- 🧠 MSc in IT Engineering haver
+- 👔 Data scientist
 - 🖱️ Gaming enjoyer
 - 🖥️ I code stuff in my free time
 - 📫 https://twitter.com/KevcooT_
